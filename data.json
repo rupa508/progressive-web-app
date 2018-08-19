@@ -1,0 +1,50 @@
+{
+	"basics":{
+		"name":"indu",
+		"role":"doctor",
+		"mobile":"6967245216",
+		"email":"drupavathi123@gmail.com"
+	},
+	  "career":{
+	  	"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	  },
+	  "career":{
+	  	    "info":"to pursue a challenging career and be a part of progressive organization"
+	  	},
+	  	"education":[
+	  		{
+	  			"Degree":"b-tech(computer science & education)",
+	  			"Institute":"vignan nirula",
+	  			"data":["2016-20","85%"]
+	  		},
+	  		{
+	  			"Degree":"intermediate",
+	  			"Institute":"srichaitanya",
+	  			"data":["2014-16","85%"]
+	  		},
+	  		{
+	  			"Degree":"ssc",
+	  			"Institute":"kerala model school",
+	  			"data":["2016-20","85%"]
+	  		}
+	  	],
+	  	"skills":[
+	  		{
+	  			"title":"programming languages",
+	  			"content":["python","c","java","R","c++"]
+      },
+	  	{
+	  			"title":"Data Bases",
+	  			"content":["sql","oracle","mysql","R"]
+      },
+	  	{
+	  			"title":"web Technologies",
+	  			"content":["HTML","XML","JavaScript","css"]
+      },
+      {
+	  			"title":"Operating Systems",
+	  			"content":["windows","unix","Linux"]
+      }
+	  	]
+
+	  }
